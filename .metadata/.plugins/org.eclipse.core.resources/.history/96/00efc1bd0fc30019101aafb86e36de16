@@ -1,0 +1,62 @@
+package cucumber_demo1.cucumber_2;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class Logindefnition {
+	@Given("User has launched the application")
+	public void user_has_launched_the_application() {
+	    // Write code here that turns the phrase above into concrete actions
+	   // throw new cucumber.api.PendingException();
+	}
+
+	@Then("User enters the valid credentials")
+	public void user_enters_the_valid_credentials() {
+	    // Write code here that turns the phrase above into concrete actions
+	    //throw new cucumber.api.PendingException();
+	}
+
+	@Then("User clicks on submit button")
+	public void user_clicks_on_submit_button() {
+	    // Write code here that turns the phrase above into concrete actions
+	   // throw new cucumber.api.PendingException();
+	}
+
+	@Then("User verifies the login status")
+	public void user_verifies_the_login_status() {
+	    // Write code here that turns the phrase above into concrete actions
+	    //throw new cucumber.api.PendingException();
+	}
+
+	@Given("User launched the app of mercury tours")
+	public void user_launched_the_app_of_mercury_tours() {
+	    // Write code here that turns the phrase above into concrete actions
+	   // throw new cucumber.api.PendingException();
+	}
+
+	@Then("User clicks on SignUp link")
+	public void user_clicks_on_SignUp_link() {
+	    // Write code here that turns the phrase above into concrete actions
+	   // throw new cucumber.api.PendingException();
+	}
+
+	@When("User enters the valid data in the form")
+	public void user_enters_the_valid_data_in_the_form() {
+	    // Write code here that turns the phrase above into concrete actions
+	    //throw new cucumber.api.PendingException();
+	}
+
+	@When("User clicks on submit button available")
+	public void user_clicks_on_submit_button_available() {
+	    // Write code here that turns the phrase above into concrete actions
+	    //throw new cucumber.api.PendingException();
+	}
+
+	@Then("User verifies the registration status")
+	public void user_verifies_the_registration_status() {
+	    // Write code here that turns the phrase above into concrete actions
+	    //throw new cucumber.api.PendingException();
+	}
+
+}

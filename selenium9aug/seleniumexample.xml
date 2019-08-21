@@ -1,0 +1,15 @@
+<suite name="Suite1" verbose="1" >
+  <test name="Nopackage" >
+    <classes>
+       <class name="testngdemo.testng2" />
+       <class name="testngdemo.testng3" />
+    </classes>
+  </test>
+ 
+   <test name="Nopackage1" >
+    <classes>
+       <class name="testngdemo.testng2" />
+       <class name="testngdemo.testng3" />
+    </classes>
+  </test>
+</suite>

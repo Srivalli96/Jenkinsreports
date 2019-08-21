@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Myrunners" project="cucumber-2" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="cucumber_demo1.cucumber_2.Myrunners" time="0.126">
+    <testsuite name="Feature: my demo on tags" time="0.126">
+      <testcase name="login validation on flipkart" classname="my demo on tags" time="0.0"/>
+      <testcase name="user access to items in the portal" classname="my demo on tags" time="0.0"/>
+      <testcase name="user access to remove from cart" classname="my demo on tags" time="0.126"/>
+    </testsuite>
+  </testsuite>
+</testrun>

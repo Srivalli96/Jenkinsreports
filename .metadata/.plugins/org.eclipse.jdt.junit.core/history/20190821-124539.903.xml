@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Myrunners (1)" project="Gitre" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="Jenre.Gitre.Myrunners" time="29.408">
+    <testsuite name="Feature: Test validation fot the git jenkins" time="29.408">
+      <testcase name="My demo report validation in jenkins today" classname="Test validation fot the git jenkins" time="29.408"/>
+    </testsuite>
+  </testsuite>
+</testrun>
